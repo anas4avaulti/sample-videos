@@ -1,0 +1,114 @@
+{
+    "predictions": [
+        {
+            "frame_timestamp": 1.0,
+            "object_count": 1,
+            "objects": [
+                {
+                    "bounding_box": {
+                        "height": 100,
+                        "width": 100,
+                        "x": 50,
+                        "y": 50
+                    },
+                    "primary_class": {
+                        "class": "fruit",
+                        "confidence": 0.85
+                    },
+                    "secondary_class": {
+                        "class": "Apple",
+                        "confidence": 0.90
+                    }
+                }
+            ]
+        },
+        {
+            "frame_timestamp": 2.0,
+            "object_count": 1,
+            "objects": [
+                {
+                    "bounding_box": {
+                        "height": 100,
+                        "width": 100,
+                        "x": 50,
+                        "y": 50
+                    },
+                    "primary_class": {
+                        "class": "fruit",
+                        "confidence": 0.75
+                    },
+                    "secondary_class": {
+                        "class": "Carrot",
+                        "confidence": 0.80
+                    }
+                }
+            ]
+        },
+        {
+            "frame_timestamp": 3.0,
+            "object_count": 1,
+            "objects": [
+                {
+                    "bounding_box": {
+                        "height": 100,
+                        "width": 100,
+                        "x": 50,
+                        "y": 50
+                    },
+                    "primary_class": {
+                        "class": "fruit",
+                        "confidence": 0.90
+                    },
+                    "secondary_class": {
+                        "class": "Banana",
+                        "confidence": 0.92
+                    }
+                }
+            ]
+        },
+        {
+            "frame_timestamp": 4.0,
+            "object_count": 1,
+            "objects": [
+                {
+                    "bounding_box": {
+                        "height": 100,
+                        "width": 100,
+                        "x": 50,
+                        "y": 50
+                    },
+                    "primary_class": {
+                        "class": "vegetable",
+                        "confidence": 0.88
+                    },
+                    "secondary_class": {
+                        "class": "Bell Pepper",
+                        "confidence": 0.95
+                    }
+                }
+            ]
+        },
+        {
+            "frame_timestamp": 5.0,
+            "object_count": 1,
+            "objects": [
+                {
+                    "bounding_box": {
+                        "height": 100,
+                        "width": 100,
+                        "x": 50,
+                        "y": 50
+                    },
+                    "primary_class": {
+                        "class": "fruit",
+                        "confidence": 0.80
+                    },
+                    "secondary_class": {
+                        "class": "Grapes",
+                        "confidence": 0.85
+                    }
+                }
+            ]
+        }
+    ]
+}
